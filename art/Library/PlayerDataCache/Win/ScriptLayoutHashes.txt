@@ -1,0 +1,6 @@
+Win
+PlayerPath?
+E:/DirectXProgram/GameBookClient-master/art/Assets/StreamingAssets/assetbundle.win/scenes/jiangxia.win
+SceneListBegin?
+Assets/Scenes/jiangxia/jiangxia.unity
+SceneListEnd?

@@ -1,0 +1,10 @@
+﻿Res Path:E:\DirectXProgram\GameBookClient-master\art\Assets\StreamingAssets
+Csv Path:E:\DirectXProgram\GameBookServer-master\11_03_teleport\res\resource
+AssetBundle CreateFromWWW failed: file://E:/DirectXProgram/GameBookClient-master/art/Assets/StreamingAssets/assetbundle.win
+	404 Not Found
+AssetBundle CreateFromWWW failed: file://E:/DirectXProgram/GameBookClient-master/art/Assets/StreamingAssets/assetbundle.win
+	404 Not Found
+AssetBundle CreateFromWWW failed: file://E:/DirectXProgram/GameBookClient-master/art/Assets/StreamingAssets/assetbundle.win
+	404 Not Found
+!!!!! AssetBundle CreateFromWWW failed: assetbundle.win
+	 ErrorCount >= 3
